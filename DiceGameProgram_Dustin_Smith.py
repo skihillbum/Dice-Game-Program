@@ -2,7 +2,7 @@
 Program: DiceGameProgram_Dustin_Smith.py
 Author: Dustin Smith
 Date: March 31, 2023
-Description: This program is a dice-rolling game where two player compete for the highest face value of two dice, one die with 6 sides and one die with 10 sides.
+Description: This program is a dice-rolling game where two players compete for the highest face value of two dice, one die has 6 sides and the other die has 10 sides.
 The program contains three classes, Die, Player, and HighTwoGame. The HighTwoGame class determines the winner of each game and returns the results.
 """
 
